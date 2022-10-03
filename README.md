@@ -1,3 +1,3 @@
 # debsy
 
-Debsy is an awesome application.
+Debsy is an AWESOME application.
